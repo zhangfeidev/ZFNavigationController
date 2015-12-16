@@ -1,6 +1,6 @@
 #ZFNavigationController
 ##简介
-很喜欢天猫和网易新闻的导航控制器的pop效果，于是封装了一个相同的pop效果。将自定义的navigationBar作为了viewcontroller的属性。
+很喜欢天猫和网易新闻的导航控制器的pop效果，于是封装了一个相同的pop效果。将自定义的navigationBar作为了viewcontroller的属性。第一版封装得比较简单，后期再深度封装一下。当然我只是抛砖引玉，希望喜欢这个效果的朋友们拿去自己DIY吧！
 ##效果
 ![](http://ww2.sinaimg.cn/large/cfaa8811jw1ez0fikjqltg208s0fodl2.gif)
 ##使用方法
@@ -33,7 +33,7 @@ self.navigationBarHidden = YES;
 
 ![](http://ww2.sinaimg.cn/large/cfaa8811jw1ez0h165pfoj20po0nzdij.jpg)
 
-博客地址：[](url),欢迎star！
+博客地址：[小飞的技术博客](http://zhangfei.tk/2015/12/05/Runtime%E5%AE%9E%E6%88%98%E4%B9%8B%E5%AF%BC%E8%88%AA%E6%8E%A7%E5%88%B6%E5%99%A8%E9%82%A3%E4%BA%9B%E4%BA%8B/#more),欢迎star！
 ##License
 MIT
 
